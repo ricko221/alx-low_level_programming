@@ -1,0 +1,1 @@
+This project makes me understand what argv and argc are
